@@ -1,0 +1,25 @@
+.add-note-container {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 20%;
+    textarea {
+        margin-bottom: 1rem;
+        resize: none;
+        padding: 1rem;
+        border-radius: 3px;
+        font-family: inherit;
+    }
+    button {
+        background-color: #20232a;
+        border: none;
+        color: #FFF;
+        padding: 10px;
+        border-radius: 3px;
+        box-shadow: 3px 3px 8px -2px #c4c9ca;
+        cursor: pointer;
+    }
+    a {
+        margin-top: 2rem;
+        cursor: pointer;
+    }
+}
