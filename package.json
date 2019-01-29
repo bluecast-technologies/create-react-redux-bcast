@@ -1,6 +1,6 @@
 {
   "name": "create-react-redux-bcast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Boilerplate code for react-redux",
   "main": "index.js",
   "dependencies": {
